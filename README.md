@@ -1,6 +1,6 @@
       - 8amiul@gmail.com
       - fb.com/8amiul8
-      - youtu.be/8amiul
+      - youtube.com/@8amiul
       - ig.me/8amiul
       - x.com/8amiul
       - chess.com/member/8amiulonceagain
