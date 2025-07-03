@@ -9,4 +9,3 @@
       - tryhackme.com/p/8amiul
       - t.me/iam84wivel
       - GTAO: 8amiul
-      - reddit.com/user/8amiul
