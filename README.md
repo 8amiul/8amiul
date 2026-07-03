@@ -13,7 +13,7 @@
                                  ^"====="`     ^Y"   ^Y'                         ""                     "%    
                                                                                                               
                                                                                                               
-      I am Samiul Islam, EEE undergrad @ AUST
+                                                  I am Samiul Islam, EEE undergrad @ AUST
       
       # Few things about me,
             - I like to code in C, C++, Python and JavaScript.
@@ -23,6 +23,7 @@
 
       # Social links
             - 8amiul@gmail.com
+            - 8amiul.github.io
             - fb.com/8amiul8
             - youtube.com/@8amiul
             - youtube.com/@8amiulOnceAgain
@@ -34,4 +35,22 @@
             - tryhackme.com/p/8amiul
             - t.me/iam84wivel
             - GTAO: 8amiul
+
+
+                                                   -----BEGIN PGP PUBLIC KEY BLOCK-----
+                                      
+                                      mDMEakcv3xYJKwYBBAHaRw8BAQdAlZzRA0gJDbxaxo2bUP+/Z+a8CI8Lq3SxElNr
+                                      Nb9E5cq0H1NhbWl1bCBJc2xhbSA8OGFtaXVsQGdtYWlsLmNvbT6ItQQTFgoAXRYh
+                                      BN+tjZg/d10xNWK+E6A0PtHLNpMjBQJqRy/fGxSAAAAAAAQADm1hbnUyLDIuNSsx
+                                      LjEyLDIsMQIbAwUJBaUMAQULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRCg
+                                      ND7RyzaTIxLoAP4+cEv5JeXD0YVDMfWcnJomiBZJv/Gaw8SIkL/sSH5eFQEAtghw
+                                      12XuSg/wYyLKHfe0kS99uFjGA+xBwXqQJSjq2Ay4OARqRy/fEgorBgEEAZdVAQUB
+                                      AQdAkVE9jzbInzlXpOTmG5USHih1yFAGvY+LtEgZ/NZ/dyADAQgHiJoEGBYKAEIW
+                                      IQTfrY2YP3ddMTVivhOgND7RyzaTIwUCakcv3xsUgAAAAAAEAA5tYW51MiwyLjUr
+                                      MS4xMiwyLDECGwwFCQWlDAEACgkQoDQ+0cs2kyOlLgD+I0124p3UkCpP7I+qUkYc
+                                      524LAMAKIz5Xo0/IgX0FFXoA/0xMJW+ZbpmBE2MsN7YOAN1RNnTkRT9I4aYYdrXy
+                                      klsF
+                                      =5RFx
+                                                   -----END PGP PUBLIC KEY BLOCK-----
+  
 </pre>
