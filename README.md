@@ -26,15 +26,15 @@
             - 8amiul.github.io
             - fb.com/8amiul8
             - youtube.com/@8amiul
-            - youtube.com/@8amiulOnceAgain                     
-            - ig.me/8amiul                                  
-            - x.com/8amiul              
-            - chess.com/member/8amiulonceagain                
-            - codeforces.com/profile/8amiul                      
-            - open.spotify.com/user/31ziro3uqh7oeb5kpiw4bhcd6fqu           
-            - tryhackme.com/p/8amiul                                              
-            - t.me/iam84wivel                                                  
-            - GTAO: 8amiul                                                              
+            - youtube.com/@8amiulOnceAgain
+            - ig.me/8amiul
+            - x.com/8amiul
+            - chess.com/member/8amiulonceagain
+            - codeforces.com/profile/8amiul
+            - open.spotify.com/user/31ziro3uqh7oeb5kpiw4bhcd6fqu
+            - tryhackme.com/p/8amiul
+            - t.me/iam84wivel
+            - GTAO: 8amiul
  
 
                                                  -----BEGIN PGP PUBLIC KEY BLOCK-----
