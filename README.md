@@ -16,26 +16,31 @@
                                                   I am Samiul Islam, EEE undergrad @ AUST
       
       # Few things about me,
-            - I like to code in C, C++, Python and JavaScript.
-            - Currently focusing on C++.
-            - Hobbiyst programmer and electronics enthusiast
-            - I also like penetration testing and CTFs
-
-      # Social links
-            - 8amiul@gmail.com
-            - 8amiul.github.io
-            - fb.com/8amiul8
-            - youtube.com/@8amiul
-            - youtube.com/@8amiulOnceAgain
-            - ig.me/8amiul
-            - x.com/8amiul
-            - chess.com/member/8amiulonceagain
-            - codeforces.com/profile/8amiul
-            - open.spotify.com/user/31ziro3uqh7oeb5kpiw4bhcd6fqu
-            - tryhackme.com/p/8amiul
-            - t.me/iam84wivel
-            - GTAO: 8amiul
-
+            - I like to code in C, C++, Python and JavaScript.                          .+++vvvv:. .                     
+            - Currently focusing on C++.                                            .$UllllllllllllllllU~.       
+            - Hobbiyst programmer and electronics enthusiast                   Ullllllllllllllllllll$I:::+++++ 
+            - I also like penetration testing and CTFs                       .AlllllllllllllMPvvvv::owwI:::+++++         
+                                                                             UllllllllB::::::vvvvvvwwwwwwo:+++++!                 
+      # Social links                                                        Ullll@+++++::::::vvvvvvwwwwwww::+++++!  
+            - 8amiul@gmail.com                                              lw!!!!++++++:::::::v::vvcwwwI:::+++++!        
+            - 8amiul.github.io                                            ~+!!++++++++++:::::::::v:+:0#llllllllll"      
+            - fb.com/8amiul8                                            "++!!!!!!++++++++++v@llllllllllllllllllllll0      
+            - youtube.com/@8amiul                                   +++:!+++!!++!~llllllllllllllllllllllllllllllll:                          
+            - youtube.com/@8amiulOnceAgain                         ++++. .lllllllllllllllllAccwUllllllllllllllllll      
+            - ig.me/8amiul                                         ++++   Illlllllllllllll  PB  llllllllllc $X Bll.     
+            - x.com/8amiul                                        !+!+~   ~llllllllllUolllllUlUllllllllllllIBBUllU"
+            - chess.com/member/8amiulonceagain                   !!+~+      lllllllPllUIlllllllllllllllllllllllllll~   
+            - codeforces.com/profile/8amiul                        !!       .Ulllllllll:!lllllllllllllllllllllllllS~    
+            - open.spotify.com/user/31ziro3uqh7oeb5kpiw4bhcd6fqu              Ullll"llll$~llllllllllllllllllllllUB.     
+            - tryhackme.com/p/8amiul                                           llllIUlllwSIUPSllllllU:Ul@Ulllll+:.      
+            - t.me/iam84wivel                                                  lllllU~lllRIR$:wv!UlllllllllUoBBU"       
+            - GTAO: 8amiul                                                     lllllllU~llRwwcB0I@Ul@0$M@+UMvvl         
+                                                                              MllllllllllI$lloRUPS#BRU:UUXBU:lI         
+                                                                             .lllllllllllllU"UllXPoASo cc"olR           
+                                                                            .lllllllllllllllllS!UllllllllU!             
+                                                                            llllllllllllllllllllllllll!                 
+                                                                        .!@lllllllllllllllllllllllllllUv~.    ...       
+                                                                 ++"Mllllllllllllllllllllllllllllllllllllllllllllll     
 
                                                    -----BEGIN PGP PUBLIC KEY BLOCK-----
                                       
