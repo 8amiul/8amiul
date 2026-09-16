@@ -18,7 +18,7 @@
       # Few things about me,
             - I like to code in C, C++, Python and JavaScript.            
             - Currently focusing on C++. 
-            - Hobbiyst programmer and electronics enthusiast
+            - Hobbyist programmer and electronics enthusiast
             - I also like penetration testing and CTFs       
               
       # Social links
